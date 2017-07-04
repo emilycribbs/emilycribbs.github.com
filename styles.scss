@@ -1,0 +1,17 @@
+---
+---
+.intro-header-divider {
+  width: 100%;
+}
+.work-stories {
+  max-width: 1170px;
+  margin: auto;
+
+  .work-story {
+    padding: 35px 0;
+
+    img {
+      width: 100%;
+    }
+  }
+}
